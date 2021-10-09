@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
     port: 3306,          // DB와 연결할 포트번호
     user: 'root',        // 계정이름
     password: 'tkdwns12',    // 계정 비밀번호
-    database: 'board01'    // 데이터베이스 이름
+    database: 'board'    // 데이터베이스 이름
   });
   
 
